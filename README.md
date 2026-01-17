@@ -4,5 +4,4 @@
 2. New terminal -> npm run server
 3. New terminal -> npm start
 
-![til](images/preview.gif)
-"# react-library" 
+![demo](./images/preview.gif)
