@@ -1,7 +1,5 @@
 # react-library
 
 1. Download the folder
-2. npm run build
-3. npm start
-"# library-react" 
-"# react-library" 
+2. New terminal -> npm run server
+3. New terminal -> npm start
